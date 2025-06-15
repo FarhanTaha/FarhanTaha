@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Farhan
 
-<!--
-**FarhanTaha/FarhanTaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Software Engineering student at QUT  
+💻 Passionate about Full Stack Development, API Configurations and building cool tools  
+🚀 On a mission to become a job-ready software engineer in 12 months
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python & OOP
+- JavaScript & Node.js
+- Git & GitHub
+- Data Structures & Algorithms
+- Agile, Waterfall, V-shaped Model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- 🧠 `python-practice` – Loops, functions, and problem-solving
+- 🏗️ `100-days-of-code` – Daily learning and coding log
+- 🧩 `mini-projects` – Small apps and tools
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/farhantaha)
+- 📍 Brisbane, Australia
