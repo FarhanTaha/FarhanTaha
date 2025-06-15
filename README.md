@@ -16,6 +16,4 @@
 - 🏗️ `100-days-of-code` – Daily learning and coding log
 - 🧩 `mini-projects` – Small apps and tools
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/farhantaha)
-- 📍 Brisbane, Australia
+
