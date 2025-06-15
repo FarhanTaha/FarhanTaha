@@ -16,4 +16,10 @@
 - 🏗️ `100-days-of-code` – Daily learning and coding log
 - 🧩 `mini-projects` – Small apps and tools
 
+## 📊 GitHub Stats
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanTaha&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTaha&layout=compact&theme=tokyonight)
+
+
 
