@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farhan
 
-🎓 First-year Software Engineering student at QUT  
+🎓 Second-year Software Engineering student at QUT  
 💻 Passionate about Full Stack Development, API Configurations and building cool tools  
 🚀 On a mission to become a job-ready software engineer in 12 months
 
