@@ -11,8 +11,8 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhanTaha&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently Learning
-- Python & OOP
-- JavaScript & Node.js
+- Python & Data Analytics
+- C# and .NET with OOP
 - Git & GitHub
 - Data Structures & Algorithms
 - Agile, Waterfall, V-shaped Model
