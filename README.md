@@ -6,9 +6,11 @@
 
 ## 📊 GitHub Stats
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanTaha&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTaha&layout=compact&theme=tokyonight)
+![Farhan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FarhanTaha&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhanTaha&layout=compact&theme=tokyonight)
 
 ## 🌱 Currently Learning
 - Python & OOP
