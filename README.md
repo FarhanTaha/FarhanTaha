@@ -21,7 +21,7 @@
 
 ## 🛠️ Projects
 - 🧠 `python-practice` – Loops, functions, and problem-solving
-- ⚙️ `javascript-practice` – Variables, functions, DOM, and interactive web logic
+- ⚙️ `CSharp_Calculator` – Variables, functions, DOM, and interactive web logic
 - 🏗️ `100-days-of-code` – Daily learning and coding log
 - 🧩 `mini-projects` – Small apps and tools
 
