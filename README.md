@@ -6,9 +6,9 @@
 
 ## 📊 GitHub Stats
 
-![Farhan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FarhanTaha&show_icons=true&theme=tokyonight)
+![Farhan's GitHub stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhanTaha&layout=compact&theme=tokyonight)
+![Top Langs](./profile/top-langs.svg)
 
 ## 🌱 Currently Learning
 - Python & Data Analytics
@@ -18,14 +18,3 @@
 - Git & GitHub
 - Data Structures & Algorithms
 - Agile, Waterfall, V-shaped Model
-
-## 🛠️ Projects
-- 🧠 `python-practice` – Loops, functions, and problem-solving
-- ⚙️ `CSharp_Calculator` – Variables, functions, DOM, and interactive web logic
-- 🏗️ `Luna` – Multi-agent verification AI project
-- 🧩 `mini-projects` – Small apps and tools
-
-
-
-
-
