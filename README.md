@@ -13,6 +13,8 @@
 ## 🌱 Currently Learning
 - Python & Data Analytics
 - C# and .NET with OOP
+- Microprocessor building with C
+- Using Matlab to Solve Complex Engineering Maths
 - Git & GitHub
 - Data Structures & Algorithms
 - Agile, Waterfall, V-shaped Model
